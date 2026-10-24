@@ -1,6 +1,6 @@
 $ git branch -a -vv
   bug-fix-typo                d8b9f36 [origin/bug-fix-typo] Fix typo in compound interest script
-* main                        5cd5dae [origin/main] Update branch status evidence
+* main                        5bd7c38 [origin/main] Update assignment evidence files
   remotes/origin/HEAD         -> origin/main
   remotes/origin/bug-fix-typo d8b9f36 Fix typo in compound interest script
-  remotes/origin/main         5cd5dae Update branch status evidence
+  remotes/origin/main         5bd7c38 Update assignment evidence files

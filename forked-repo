@@ -1,4 +1,4 @@
-$ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
+$ curl -s https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
 {
   "id": 1432474097,
   "node_id": "R_kgDOVWHR8Q",
@@ -67,17 +67,17 @@ $ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
   "releases_url": "https://api.github.com/repos/shreyavaidya24-cpu/mcino-old/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shreyavaidya24-cpu/mcino-old/deployments",
   "created_at": "2026-10-24T18:25:41Z",
-  "updated_at": "2026-10-24T18:33:35Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-10-24T19:51:38Z",
+  "pushed_at": "2026-10-24T19:51:34Z",
   "git_url": "git://github.com/shreyavaidya24-cpu/mcino-old.git",
   "ssh_url": "git@github.com:shreyavaidya24-cpu/mcino-old.git",
   "clone_url": "https://github.com/shreyavaidya24-cpu/mcino-old.git",
   "svn_url": "https://github.com/shreyavaidya24-cpu/mcino-old",
   "homepage": null,
-  "size": 18,
+  "size": 25,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -195,7 +195,7 @@ $ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11388,
+    "forks_count": 11390,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +216,7 @@ $ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
 
     ],
     "visibility": "public",
-    "forks": 11388,
+    "forks": 11390,
     "open_issues": 48,
     "watchers": 21,
     "default_branch": "main"
@@ -306,7 +306,7 @@ $ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11388,
+    "forks_count": 11390,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +327,12 @@ $ curl https://api.github.com/repos/shreyavaidya24-cpu/mcino-old
 
     ],
     "visibility": "public",
-    "forks": 11388,
+    "forks": 11390,
     "open_issues": 48,
     "watchers": 21,
     "default_branch": "main"
   },
-  "network_count": 11388,
+  "network_count": 11390,
   "subscribers_count": 0
 }
+

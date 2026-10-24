@@ -96,7 +96,7 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
       "watchers": 0,
       "open_issues_count": 0,
       "open_issues": 0,
-      "size": 18,
+      "size": 25,
       "default_branch": "main",
       "has_issues": false,
       "has_projects": true,
@@ -105,9 +105,9 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
       "has_downloads": false,
       "has_discussions": false,
       "has_pull_requests": true,
-      "pushed_at": "2026-10-24T19:33:49Z",
+      "pushed_at": "2026-10-24T19:51:34Z",
       "created_at": "2026-10-24T18:25:41Z",
-      "updated_at": "2026-10-24T19:33:59Z",
+      "updated_at": "2026-10-24T19:51:38Z",
       "allow_forking": true,
       "web_commit_signoff_required": false,
       "pull_request_creation_policy": "all",
@@ -362,3 +362,4 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
   "deletions": 0,
   "changed_files": 1
 }
+

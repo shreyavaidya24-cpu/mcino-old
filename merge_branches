@@ -1,0 +1,7 @@
+$ git checkout main
+Switched to branch 'main'
+$ git merge bug-fix-typo
+Updating e992a6a..d8b9f36
+Fast-forward
+ compound_interest.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)

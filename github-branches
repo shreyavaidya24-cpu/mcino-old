@@ -1,6 +1,18 @@
 $ git branch -a -vv
-  bug-fix-typo                d8b9f36 [origin/bug-fix-typo] Fix typo in compound interest script
-* main                        5bd7c38 [origin/main] Update assignment evidence files
+  bug-fix-typo                51576ce Update README for bug fix merge exercise
+* main                        72681ad [origin/main] Fix merge branch evidence
+  q7-readme-fix               99fa04d Add README merge exercise update
   remotes/origin/HEAD         -> origin/main
   remotes/origin/bug-fix-typo d8b9f36 Fix typo in compound interest script
-  remotes/origin/main         5bd7c38 Update assignment evidence files
+  remotes/origin/main         72681ad Fix merge branch evidence
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   github-branches
+
+no changes added to commit (use "git add" and/or "git commit -a")

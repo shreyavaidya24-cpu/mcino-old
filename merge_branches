@@ -1,7 +1,8 @@
 $ git checkout main
-Switched to branch 'main'
+Already on 'main'
+Your branch is up to date with 'origin/main'.
 $ git merge bug-fix-typo
-Updating e992a6a..d8b9f36
+Updating 99fa04d..51576ce
 Fast-forward
- compound_interest.py | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)

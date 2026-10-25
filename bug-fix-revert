@@ -363,3 +363,6 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
   "changed_files": 1
 }
 
+$ curl -s "https://api.github.com/repos/shreyavaidya24-cpu/mcino-old/pulls?state=all"
+[]
+
